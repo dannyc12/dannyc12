@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dannyc12
-- 👀 I’m interested in automation, data science, finance, ed tech and defense technologies
-- 🌱 I’m currently learning python
+- 👀 I’m interested in backend development, data science and analysis, and machine learning
+- 🌱 I’m a self-taught Python developer, with HTML, CSS and JS familiarity. I''m currently working on proficiency with advanced REST API development.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
